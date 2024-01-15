@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @chejovegase
+- 👀 I’m interested in exploring various topics related to technology, science, and creativity.
+- 🌱 I’m currently learning new programming languages and enhancing my skills in data science.
+- 💞️ I’m looking to collaborate on open-source projects and initiatives that align with my interests and skills.
+- 📫 How to reach me: Feel free to send me a message or connect with me on GitHub.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy experimenting with cooking and trying out different cuisines.
